@@ -1,0 +1,16 @@
+cid,cname,ctype,company,seates,price,Stock
+101,creta,suv,hyundai,5,2000000,15
+102,verna,sedan,hyundai,5,1500000,6
+103,baleno,hachback,suzuki,5,900000,42
+104,innova,suv,toyota,7,2600000,23
+105,endeavour,suv,ford,7,4500000,3
+106,venue,mpv,hyundai,5,1000000,35
+107,sonet,mpv,kia,5,1200000,52
+108,dzire,sedan,suzuki,5,800000,12
+109,kwid,hachback,renault,5,500000,60
+110,breeza,suv,suzuki,5,1400000,37
+111,seltos,suv,kia,5,1600000,27
+112,kiger,mpv,renault,5,700000,50
+113,city,sedan,honda,5,1800000,70
+114,civic,sedan,honda,5,1100000,8
+115,i20,hachback,hyundai,5,900000,5
